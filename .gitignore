@@ -2,6 +2,11 @@
 .DS_Store
 .gradle
 local.properties
-.idea
 build
 *.iml
+.idea
+.gradle
+gradle
+out
+gradlew
+gradlew.bat
